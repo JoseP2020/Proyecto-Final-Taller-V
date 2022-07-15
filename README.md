@@ -1,7 +1,7 @@
 # Proyecto-Final-Taller-V
 Tema del Proyecto : Conceptos, diferencia y ejemplos de Mock y Spy
 Link al video de YouTube : https://youtu.be/w6XoA28kfuI
-El siguiente trabajo puede que no sea mucho pero es trabajo honesto :'v
+El siguiente trabajo puede no parecer mucho pero es trabajo honesto :'v
 
 Otros...
 
