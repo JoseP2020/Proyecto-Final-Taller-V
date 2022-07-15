@@ -1,0 +1,13 @@
+@Mock
+private ArrayList mockArrayList;
+
+@Test
+public void mockTest() {
+		mockArrayList.add("Objeto 1");
+		mockArrayList.add("Objeto 2");
+		mockArrayList.add("Objeto 3");
+		
+		assertEquals(0, mockArrayList.size());
+	}	
+
+	

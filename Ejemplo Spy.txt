@@ -1,0 +1,16 @@
+@Spy
+private ArrayList spyArrayList;
+
+@Test
+public void spyTest() {
+		spyArrayList.add("Objeto 1");
+		spyArrayList.add("Objeto 2");
+		spyArrayList.add("Objeto 3");
+		
+		assertEquals(3, spyArrayList.size());
+		
+		when(spyArrayList.size()).thenReturn(20);
+		assertEquals(20, spyArrayList.size());
+	}		
+	
+	
