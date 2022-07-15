@@ -12,5 +12,3 @@ public void spyTest() {
 		when(spyArrayList.size()).thenReturn(20);
 		assertEquals(20, spyArrayList.size());
 	}		
-	
-	
